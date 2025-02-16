@@ -52,3 +52,5 @@ Thumbs.db
 output/
 *.csv
 !idealista_data.csv  # Excluir este archivo específico de la regla anterior 
+
+*.pdf
